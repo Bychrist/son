@@ -1,0 +1,839 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Roy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-24 16:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:120
+msgid "Right Widget Sidebar Area"
+msgstr ""
+
+#: functions.php:122 functions.php:132 functions.php:142 functions.php:152
+#: functions.php:162 functions.php:172
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Left Widget Sidebar Area"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: functions.php:203
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:207
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:22 template-parts/content-none.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26 template-parts/content-none.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31 template-parts/content-none.php:27
+msgid "Back To Home"
+msgstr ""
+
+#: index.php:77 archive.php:72 search.php:58 template-blog.php:98
+msgid "Prev"
+msgstr ""
+
+#: index.php:78 archive.php:73 search.php:59 template-blog.php:99
+msgid "Next"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Business Roy - Full Width"
+msgstr ""
+
+#. %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:62
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:90
+msgid "Close Menu"
+msgstr ""
+
+#: header.php:94
+msgid "Mobile"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Template"
+msgstr ""
+
+#: inc/themes-functions.php:217
+msgid "Copyright  &copy; "
+msgstr ""
+
+#. Author of the theme
+#: inc/themes-functions.php:219
+msgid "Ikreate Themes"
+msgstr ""
+
+#: inc/themes-functions.php:252
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/themes-functions.php:679
+msgid "All Works"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:61 inc/template-tags.php:183
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:64
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:71
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:81 inc/template-tags.php:160
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:98 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-functions.php:55
+msgid "Display Page Layout Options"
+msgstr ""
+
+#: inc/template-functions.php:73
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:79
+msgid "Right (Default)"
+msgstr ""
+
+#: inc/template-functions.php:85
+msgid "Full width"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-masonry.php:51 template-parts/content.php:49
+#: template-parts/content.php:70 template-parts/content-search.php:50
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-page.php:27
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/sanitize.php:67 inc/customizer/customizer.php:191
+#: inc/customizer/customizer.php:305 inc/customizer/customizer.php:357
+#: inc/customizer/customizer.php:430 inc/customizer/customizer.php:573
+#: inc/customizer/customizer.php:681 inc/customizer/customizer.php:748
+#: inc/customizer/customizer.php:850 inc/customizer/customizer.php:927
+#: inc/customizer/customizer.php:1017 inc/customizer/customizer.php:1152
+#: inc/customizer/customizer.php:1246 inc/customizer/customizer.php:1405
+#: inc/customizer/customizer.php:1426 inc/customizer/customizer.php:1447
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/sanitize.php:68 inc/customizer/customizer.php:192
+#: inc/customizer/customizer.php:306 inc/customizer/customizer.php:358
+#: inc/customizer/customizer.php:431 inc/customizer/customizer.php:574
+#: inc/customizer/customizer.php:682 inc/customizer/customizer.php:749
+#: inc/customizer/customizer.php:851 inc/customizer/customizer.php:928
+#: inc/customizer/customizer.php:1018 inc/customizer/customizer.php:1153
+#: inc/customizer/customizer.php:1247 inc/customizer/customizer.php:1406
+#: inc/customizer/customizer.php:1427 inc/customizer/customizer.php:1448
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer.php:37
+msgid "Enable Front Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "Enable Business Roy Style frontpage?"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:73
+msgid "Theme Colors Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:101
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Home Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "Drag and Drop to Reorder"
+msgstr ""
+
+#: inc/customizer/customizer.php:130
+msgid "Home Slider Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:149
+msgid "Banner Slider Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:152
+msgid "Slider Settings Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:153
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:160
+msgid "Select Slider Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:171
+msgid "Features Service Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:188 inc/customizer/customizer.php:302
+#: inc/customizer/customizer.php:354 inc/customizer/customizer.php:427
+#: inc/customizer/customizer.php:570 inc/customizer/customizer.php:678
+#: inc/customizer/customizer.php:745 inc/customizer/customizer.php:847
+#: inc/customizer/customizer.php:924 inc/customizer/customizer.php:1014
+msgid "Enable / Disable"
+msgstr ""
+
+#: inc/customizer/customizer.php:215
+msgid "Display Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:219 inc/customizer/customizer.php:1128
+#: inc/customizer/customizer.php:1171 inc/customizer/customizer.php:1188
+#: inc/customizer/customizer.php:1205 inc/customizer/customizer.php:1222
+#: inc/customizer/customizer.php:1302
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:220
+msgid "Boxed Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:231
+msgid "Block Gutter Space"
+msgstr ""
+
+#: inc/customizer/customizer.php:235
+msgid "With Padding Space"
+msgstr ""
+
+#: inc/customizer/customizer.php:236
+msgid "Without Padding Space"
+msgstr ""
+
+#: inc/customizer/customizer.php:248
+msgid "Enter Features Top Padding"
+msgstr ""
+
+#: inc/customizer/customizer.php:258 inc/customizer/customizer.php:261
+msgid "Features Service Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:262 inc/customizer/customizer.php:477
+#: inc/customizer/customizer.php:984 inc/customizer/customizer.php:1065
+msgid "Add New Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:269
+msgid "Select Features Service Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:275 inc/customizer/customizer.php:488
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:286
+msgid "About Us Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+msgid "Select Page "
+msgstr ""
+
+#: inc/customizer/customizer.php:327
+msgid "Upload About Features Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:338
+msgid "Video Call To Action Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:368
+msgid "Enter Youtube Video URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:379 inc/customizer/customizer.php:596
+#: inc/customizer/customizer.php:692 inc/customizer/customizer.php:759
+#: inc/customizer/customizer.php:861 inc/customizer/customizer.php:939
+#: inc/customizer/customizer.php:1028
+msgid "Enter Section Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:390 inc/customizer/customizer.php:607
+msgid "Enter Section Subtitle"
+msgstr ""
+
+#: inc/customizer/customizer.php:401
+msgid "Upload Video Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:411
+msgid "Our Service Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:441
+msgid "Enter Service Section Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:453 inc/customizer/customizer.php:703
+#: inc/customizer/customizer.php:771 inc/customizer/customizer.php:872
+#: inc/customizer/customizer.php:950 inc/customizer/customizer.php:1039
+msgid "Enter Service Section Sub Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:473
+msgid "Our Service Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:476
+msgid "Service Settings Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:482
+msgid "Select Service Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:500
+msgid "Enter Services Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:513
+msgid "Our Service Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:517
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/customizer.php:518
+msgid "Layout Two"
+msgstr ""
+
+#: inc/customizer/customizer.php:531
+msgid "Services Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:544
+msgid "Services Fonts Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:554
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:584
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:618
+msgid "Enter Button One Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:629
+msgid "Enter Button One Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:641
+msgid "Enter Button Two Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:652
+msgid "Enter Button Two Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:662
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:717
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/customizer.php:729
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:782
+msgid "Upload Counter Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:803
+msgid "Counter Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:806
+msgid "Counter Settings Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:807
+msgid "Add New"
+msgstr ""
+
+#: inc/customizer/customizer.php:814
+msgid "Enter Counter Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:820
+msgid "Enter Counter Number"
+msgstr ""
+
+#: inc/customizer/customizer.php:831
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:883 inc/customizer/customizer.php:1278
+msgid "Select Category To Show Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:896
+msgid "Select Number Of Blog Posts To Display"
+msgstr ""
+
+#: inc/customizer/customizer.php:900
+msgid "3 Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:901
+msgid "6 Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:908
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:961
+msgid "Upload Testimonials Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:980
+msgid "Testimonials Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:983
+msgid "Testimonial Settings Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:989
+msgid "Select Testimonial Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:998
+msgid "Our Team Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1061
+msgid "Team Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1064
+msgid "Team Setting Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:1071
+msgid "Select Team Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:1077
+msgid "Enter Facebook Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:1083
+msgid "Enter Twitter Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:1089
+msgid "Enter Linkedin Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:1095
+msgid "Enter Instagram Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:1107
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:1113 inc/customizer/customizer.php:1124
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:1129
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/customizer.php:1137
+msgid "Display Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1148
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1165
+msgid "Index Blog Posts Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1169 inc/customizer/customizer.php:1186
+#: inc/customizer/customizer.php:1203 inc/customizer/customizer.php:1220
+#: inc/customizer/customizer.php:1300
+msgid "Content / Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1170 inc/customizer/customizer.php:1187
+#: inc/customizer/customizer.php:1204 inc/customizer/customizer.php:1221
+#: inc/customizer/customizer.php:1301
+msgid "Sidebar / Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:1182
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1199
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1216
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1231
+msgid "Breadcrumbs Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:1242
+msgid "Enable/Disable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/customizer.php:1257
+msgid "Upload Breadcrumbs Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:1267
+msgid "Blog Template Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1282
+msgid ""
+"Note: Selected Category Only Work When you can select page template (\n"
+"\t\t\t    \tBlog Template )"
+msgstr ""
+
+#: inc/customizer/customizer.php:1295
+msgid "Blog Template Layout Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1298
+msgid ""
+"Note: Blog Template Layout Only Work When you can select page template ( "
+"Blog Template )"
+msgstr ""
+
+#: inc/customizer/customizer.php:1308
+msgid "Normal Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:1309
+msgid "Masonry Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:1319
+msgid "Post Display Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:1327
+msgid "None"
+msgstr ""
+
+#: inc/customizer/customizer.php:1328
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:1329
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:1346
+msgid "Post Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:1355
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/customizer.php:1360
+msgid "Enter Blog Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:1384
+msgid "Enter Posts Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:1401
+msgid "Post Meta Date"
+msgstr ""
+
+#: inc/customizer/customizer.php:1422
+msgid "Post Meta Comments"
+msgstr ""
+
+#: inc/customizer/customizer.php:1443
+msgid "Post Meta Author"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:163
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:169
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:170
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:186
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:187
+msgid "Close"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:788 inc/breadcrumbs/breadcrumbs.php:817
+#: inc/breadcrumbs/breadcrumbs.php:844 inc/breadcrumbs/breadcrumbs.php:871
+#: inc/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:789 inc/breadcrumbs/breadcrumbs.php:845
+#: inc/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:790 inc/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. Name of the theme
+msgid "Business Roy"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Business Roy is a perfect and professional advance feature-rich multipurpose "
+"business free WordPress theme. Basically, Business Roy multipurpose theme "
+"helps you to create different types of business websites ( consultant, "
+"finance, corporate, freelancer, agency, business promotion, electrician, "
+"industries, education, fashion, health &amp; medical, wedding, photography, "
+"gym, architecture, lawyer &amp; hotel ) and many for other websites with the "
+"helps theme default features and Elementor custom addon, theme is fully "
+"compatible with the latest page builders plugins ( Elementor, SiteOrigin, "
+"Visual Composer ) also by default created 10+ different Elementor addon ( "
+"Widget ) which you can easily implement in any page or post to create, edit "
+"and update beautifully page design, also theme has some exciting features "
+"list like ( section re-order every homepage section, translation ready fully "
+"compatible with (WPML &amp; Polylang ) plugins, beautifully 2 different blog "
+"layout, well manage post format ( gallery, video, audio, quote, normal image "
+"), site speed optimized,  child theme support, quality code, responsive, "
+"cross-browser compatible, SEO friendly and supports WooCommerce and some "
+"other external plugins like Elementor, SiteOrigin Page Builder, Jetpack, "
+"Polylang, Yoast SEO, Contact Form 7 and many more plugins."
+msgstr ""
+
+#. URI of the theme
+msgid "https://github.com/ikreatethemes/business-roy"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ikreatethemes.com/"
+msgstr ""
